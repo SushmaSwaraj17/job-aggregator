@@ -1,0 +1,6 @@
+MONGO_URI=mongodb://localhost:27017/jobaggregator
+JWT_SECRET=yoursecretkey
+REDIS_URL=redis://localhost:6379
+GMAIL_USER=yourgmail@gmail.com
+GMAIL_PASS=yourapppassword  # Generate from Google
+FASTAPI_URL=http://localhost:8000  # For FastAPI integration
